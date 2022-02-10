@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+c:\users\xenia\desktop\prog\sfml\consoleapplication1\consoleapplication1.cpp(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xenia\desktop\prog\sfml\consoleapplication1\consoleapplication1.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xenia\desktop\prog\sfml\consoleapplication1\consoleapplication1.cpp(248): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+c:\users\xenia\desktop\prog\sfml\consoleapplication1\consoleapplication1.cpp(265): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xenia\desktop\prog\sfml\consoleapplication1\consoleapplication1.cpp(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xenia\desktop\prog\sfml\consoleapplication1\consoleapplication1.cpp(267): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\Xenia\Desktop\prog\sfml\ConsoleApplication1\Debug\ConsoleApplication1.exe
